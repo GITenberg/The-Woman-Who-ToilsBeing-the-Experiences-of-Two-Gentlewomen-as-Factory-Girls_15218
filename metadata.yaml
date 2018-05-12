@@ -32,6 +32,8 @@ creator:
     gutenberg_agent_id: '5921'
     url: http://www.gutenberg.org/2009/agents/5921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15218#The-Woman-Who-ToilsBeing-the-Experiences-of-Two-Gentlewomen-as-Factory-Girls
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
