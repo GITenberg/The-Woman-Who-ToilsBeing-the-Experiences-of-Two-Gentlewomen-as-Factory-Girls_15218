@@ -1,0 +1,52 @@
+_repo: The-Woman-Who-ToilsBeing-the-Experiences-of-Two-Gentlewomen-as-Factory-Girls_15218
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - Roosevelt, Teddy
+    - United States President (1901-1909)
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Van Vorst, John, Mrs.
+    aliases:
+    - Vorst, John Van, Mrs.
+    - Van Vorst, Bessie (McGinnis)
+    - Vorst, Mrs. John Van
+    birthdate: 1873
+    deathdate: 1928
+    gutenberg_agent_id: '5920'
+    url: http://www.gutenberg.org/2009/agents/5920
+  - agent_name: Van Vorst, Marie
+    alias: Vorst, Marie van
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '5921'
+    url: http://www.gutenberg.org/2009/agents/5921
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15218'
+  lccn: '03004201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Child labor -- United States'
+- !lcsh 'Women -- Employment -- United States'
+- !lcsh 'Working class -- United States'
+title: 'The Woman Who Toils
+
+  Being the Experiences of Two Gentlewomen as Factory Girls'
+url: http://www.gutenberg.org/ebooks/15218
